@@ -14,7 +14,7 @@
 
 Bonus round
 
-- Write unit tests for one of the componets.
+- Write unit tests for one of the components.
 
 ## Please focus on demonstrating the following in your implementation
 
