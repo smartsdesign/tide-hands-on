@@ -5,5 +5,7 @@
 <article>
   <p>The task is in the <strong>task.md</strong> file located in the root of the application</p>
 </article>
-<router-outlet></router-outlet>
+<router-outlet>
+  <span class="loader" *ngIf="loading"></span>
+</router-outlet>
 
